@@ -37,7 +37,7 @@ An Optimal BST can be used to arrange frequently searched dictionary words so th
 
 **Output:**
 
-![Dictionary Word Search Output](OutPut/App1_Dictionary_Word_Output.jpg)
+![App 1 - Dictionary Word Search Output](OutPut/App1_Dictionary_Word_Output.JPG)
 
 
 ### 2. Student Record Search
